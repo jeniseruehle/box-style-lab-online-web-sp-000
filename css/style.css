@@ -30,7 +30,8 @@ h4 {
 }
 
 .indifferent {
-  background-color: #dddd22;
+  background: linear-gradient(to right, red, blue);
+  box-shadow:  -1px 1px grey, -2px 2px grey, -3px 3px grey, -4px 4px grey, -5px 5px grey;
 }
 
 .dubious {
