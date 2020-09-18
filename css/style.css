@@ -23,7 +23,7 @@ h4 {
 }
 
 .amiable {
-  background: linear-gradient(to right,pink,gold);
+  background: linear-gradient(to right, pink, gold);
   box-shadow: -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
   background-color: #44cc66;
 }
@@ -36,18 +36,6 @@ h4 {
 .dubious {
   background: linear-gradient(to right, #FFF, #000);
   box-shadow: -1px 1px grey, -2px 2px grey, -3px 3px grey, -4px 4px grey, -5px 5px grey;
-}
-
-.amiable-header {
-  background: linear-gradient(to right, #90EE90, #44cc66);
-}
-
-.indifferent-header {
-  background: linear-gradient(to right, #dddd22, #DDA520);
-}
-
-.dubious-header {
-  background: linear-gradient(to right, #FFA07A, #B22222);
 }
 
 .column {
