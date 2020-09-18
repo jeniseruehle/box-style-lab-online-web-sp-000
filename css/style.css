@@ -38,7 +38,17 @@ h4 {
   box-shadow: -1px 1px grey, -2px 2px grey, -3px 3px grey, -4px 4px grey, -5px 5px grey;
 }
 
+.amiable-header {
+  background: linear-gradient(to right, #90EE90, #44cc66);
+}
 
+.indifferent-header {
+  background: linear-gradient(to right, #dddd22, #DDA520);
+}
+
+.dubious-header {
+  background: linear-gradient(to right, #FFA07A, #B22222);
+}
 
 .column {
   width: 30%;
