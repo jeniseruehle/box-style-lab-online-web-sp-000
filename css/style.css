@@ -39,12 +39,13 @@ h4 {
 .indifferent {
   box-shadow: -1px 1px #b0b01c, -2px 2px #b0b01c, -3px 3px #b0b01c, -4px 4px #b0b01c, -5px 5px #b0b01c;
   background-color: #dddd22;
-  background: linear-gradient (to right, #fff, #000);
+  background: linear-gradient(to right, #fff, #000);
 }
 
 .dubious {
-  background: linear-gradient(to right, #FFF, #000);
-  box-shadow: -1px 1px grey, -2px 2px grey, -3px 3px grey, -4px 4px grey, -5px 5px grey;
+  box-shadow: -1px 1px #c22424, -2px 2px #c22424, -3px 3px #c22424, -4px 4px #c22424, -5px 5px #c22424;
+  background-color: #dd4444;
+  background: linear-gradient(to right, #fff, #000);
 }
 
 .column {
