@@ -42,7 +42,7 @@ h4 {
 .dubious {
   box-shadow: -1px 1px #c22424, -2px 2px #c22424, -3px 3px #c22424, -4px 4px #c22424, -5px 5px #c22424;
   background-color: #dd4444;
-  background: linear-gradient(to right, #fff, #000);
+  background: linear-gradient(to right, red, green);
 }
 
 .column {
